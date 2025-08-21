@@ -32,7 +32,7 @@ Instalação e execução
 
 Clone este repositório:
 
-git clone https://github.com/SEU_USUARIO/calculadora-python.git
+git clone https://github.com/luanxzm/calculadora-python.git
 
 
 Entre no diretório:
@@ -64,3 +64,4 @@ Criar uma branch para sua feature ou correção.
 Abrir um pull request.
 
 ⚡ Divirta-se calculando!
+
