@@ -28,7 +28,7 @@ Ela permite que o usuário realize as quatro operações matemáticas básicas: 
 ### Instalação e execução
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/calculadora-python.git
+   git clone https://github.com/luanxzm/calculadora-python.git
    ```
 2. Entre no diretório:
    ```bash
@@ -48,7 +48,7 @@ Ela permite que o usuário realize as quatro operações matemáticas básicas: 
 ---
 
 ## 👨‍💻 Manutenção e contribuições
-- Mantido por **[Seu Nome]**.  
+- Mantido por **Luan Costa Almeida**.  
 - Contribuições são bem-vindas! Basta:  
   1. Fazer um fork do projeto.  
   2. Criar uma branch para sua feature ou correção.  
@@ -57,3 +57,4 @@ Ela permite que o usuário realize as quatro operações matemáticas básicas: 
 ---
 
 ⚡ Divirta-se calculando!  
+
